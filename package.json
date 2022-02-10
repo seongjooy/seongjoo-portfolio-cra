@@ -1,7 +1,7 @@
 {
   "name": "seongjoo",
   "version": "0.1.0",
-  "homepage": "seongjooy.github.io",
+  "homepage": "https://seongjooy.github.io/seongjoo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
