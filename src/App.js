@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
       <h1>Hello World</h1>
       <p>Hosting a website</p>
+      <p>using Github pages</p>
       </header>
     </div>
   );
