@@ -8,7 +8,6 @@ function App() {
       <h1>Hello World</h1>
       <p>Hosting a website</p>
       <p>using Github pages</p>
-      <p>2022</p>
       </header>
     </div>
   );
