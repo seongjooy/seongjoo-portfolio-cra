@@ -1,0 +1,41 @@
+.n{
+    display: flex;
+    height: 30vh;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.n-name{
+    width: 100vh;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+
+.n-name-line{
+    background-color: rgb(64, 113, 206);
+    height: 10px;
+    border-radius: 35%;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+.n-email{
+    margin-top: 10px;
+    font-size:18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+    letter-spacing: 2px;
+}
+
+.n-email-icon{
+    max-width: 20px;
+}
+
