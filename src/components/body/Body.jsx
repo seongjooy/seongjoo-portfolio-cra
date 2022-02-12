@@ -36,7 +36,7 @@ const Body = () => {
                 in the medical sector.
                 <br/><br />
                 I'm undecided on which technical area I wish to focus in,
-                so I'm doing my best to touch upon many of them. 
+                so I'm looking to touch up on many other areas.
             </p>
         </div>
 
